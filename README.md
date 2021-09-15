@@ -69,3 +69,17 @@ If you would like to preview your changes before committing, you can do so by in
 ## Deployment
 
 Once a PR is merged, the site is built by GitHub Actions and then pushed to the [organizational repo](https://github.com/suse-projects.github.io). From there GitHub publishes it to [the final destination](https://suse-projects.github.io).
+
+## Built with
+
+This site was created using [Hugo](https://gohugo.io/).
+
+## Licensing
+
+- [CC BY-SA 4.0](COPYING.CC-BY-SA-4.0) for the displayed page and primary license for this repository.
+- [MIT](COPYING.MIT) for the JavaScript
+- [CC0](COPYING.CC0) for the HTML and CSS
+
+SUSE trademarks and individual project logos are not subject to the above license grants. Usage of these items is restricted by their individual license grants.
+
+This repository is based on [RedHatOfficial/RedHatOfficial.github.io](https://github.com/RedHatOfficial/RedHatOfficial.github.io).
